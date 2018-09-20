@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>2.01</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>PadEditor by BB ver 1.0.0 http://dogkennels.net.au/padeditor</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>Yaniv Kalsky</Company_Name>
+		<Address_1 />
+		<Address_2 />
+		<City_Town />
+		<State_Province />
+		<Zip_Postal_Code />
+		<Country />
+		<Company_WebSite_URL>http://beam.to/fastwrite</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>Yaniv</Author_First_Name>
+			<Author_Last_Name>Kalsky</Author_Last_Name>
+			<Author_Email>fastwrite@gmail.com</Author_Email>
+			<Contact_First_Name />
+			<Contact_Last_Name />
+			<Contact_Email />
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email />
+			<Support_Email>fastwrite@gmail.com</Support_Email>
+			<General_Email>fastwrite@gmail.com</General_Email>
+			<Sales_Phone />
+			<Support_Phone />
+			<General_Phone />
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>FastWrite</Program_Name>
+		<Program_Version>0.90.0.1</Program_Version>
+		<Program_Release_Month>06</Program_Release_Month>
+		<Program_Release_Day>10</Program_Release_Day>
+		<Program_Release_Year>2005</Program_Release_Year>
+		<Program_Cost_Dollars>11.50</Program_Cost_Dollars>
+		<Program_Cost_Other_Code>USD</Program_Cost_Other_Code>
+		<Program_Cost_Other />
+		<Program_Type>Shareware</Program_Type>
+		<Program_Release_Status>Beta</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Windows2000,WinXP</Program_OS_Support>
+		<Program_Language>English</Program_Language>
+		<Program_Change_Info />
+		<Program_Specific_Category>Utilities</Program_Specific_Category>
+		<Program_Category_Class>System Utilities::Other</Program_Category_Class>
+		<Program_Categories />
+		<Program_System_Requirements />
+		<Includes_JAVA_VM>N</Includes_JAVA_VM>
+		<Includes_VB_Runtime>Y</Includes_VB_Runtime>
+		<Includes_DirectX>N</Includes_DirectX>
+		<File_Info>
+			<Filename_Versioned />
+			<Filename_Previous />
+			<Filename_Generic />
+			<Filename_Long />
+			<File_Size_Bytes>5160615</File_Size_Bytes>
+			<File_Size_K>5040</File_Size_K>
+			<File_Size_MB>4.92</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>Y</Has_Expire_Info>
+			<Expire_Count>15</Expire_Count>
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>t9 pc sms keyboard one hand</Keywords>
+			<Char_Desc_45>The FASTEST way to WRITE</Char_Desc_45>
+			<Char_Desc_80 />
+			<Char_Desc_250>FastWrite is the best way to experience your daily computer use. It is here to help you write faster, accomplish your tasks faster and with only one hand!</Char_Desc_250>
+			<Char_Desc_450 />
+			<Char_Desc_2000>FastWrite is the best way to experience your daily computer use. It is here to help you write faster, accomplish your tasks faster and with only one hand!
+Are you frustrated with the big keyboard that you have?
+Can't find those letters just when you need to type fast?
+Can't type fast?
+Don't remember how to spell a word?
+With FastWrite everything is much simpler!
+
+Main Features
+* Easy to use
+With only few tries and you will get it all. If you can write SMS you can write with FastWrite... 
+* 3 typing modes: MultiTap, SingleTap, SingleTap+
+MultiTap - tapping on one key will cycle through that key letters.
+SingleTap - press once on each key to build your word (hello = 49556).
+SingleTap+ - like SingleTap but in this mode FastWrite will complete the word for you. 
+* Built in dictionary
+FastWrite has its own dictionary with over 108,000 words, so it's most certenly that you find the word you are looking for. Moreover, FastWrite comes with a default settings to find the most used word and give it to you as the first choises. 
+* Addaptive word selection
+While you type and choose the words that you mostly use - you will need much less time to find the right word . 
+* Learn mode
+You can give FastWrite to analyze a text that you mostly write. This way you can start typing faster and get the words YOU mostly use. 
+* Global
+FastWrite can be used in any program to ease your typing. 
+FastWrite helps you write with only one hand and 9 main keys!
+FastWrite can complete words for you as you type!</Char_Desc_2000>
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://beam.to/fastwrite</Application_Info_URL>
+			<Application_Order_URL />
+			<Application_Screenshot_URL>http://fastwrite.bambuk.co.il/images/screenCap.GIF</Application_Screenshot_URL>
+			<Application_Icon_URL>http://fastwrite.bambuk.co.il/images/logo.gif</Application_Icon_URL>
+			<Application_XML_File_URL />
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://fastwrite.bambuk.co.il/setup/FastWrite.exe</Primary_Download_URL>
+			<Secondary_Download_URL />
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions />
+		<EULA />
+	</Permissions>
+	<ASP>
+		<ASP_FORM>N</ASP_FORM>
+		<ASP_Member>N</ASP_Member>
+		<ASP_Member_Number />
+	</ASP>
+</XML_DIZ_INFO>

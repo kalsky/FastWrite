@@ -1,0 +1,15 @@
+frmMain = 30, 6, 715, 456, , 68, 44, 447, 396, C
+FTiterator = 4, 25, 691, 343, 
+keybhook = 4, 6, 677, 446, 
+dicMdl = 37, 42, 652, 427, 
+mainHandler = 72, 20, 681, 409, 
+keyBuffer = 16, 118, 654, 478, 
+SysTray = 75, 22, 691, 455, 
+frmSettings = 59, 125, 697, 491, , 27, 33, 693, 552, C
+iniHandler = 35, 61, 682, 494, 
+md5Class = 21, 33, 712, 384, 
+dsEncrypt = 44, 58, 735, 371, 
+registryAccess = 55, 12, 702, 445, 
+frmLearn = 52, 14, 656, 391, , 26, 11, 681, 550, C
+browse = 52, 20, 696, 443, 
+RegClass = 22, 29, 665, 338, 
